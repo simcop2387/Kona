@@ -7,12 +7,7 @@
     <link rel="stylesheet" href="/markdown.css">
     <link rel="stylesheet" href="/overrides.css">
     <!-- Google Fonts -->
-    <link href='http://fonts.googleapis.com/css?family=Josefin+Sans+Std+Light&amp;subset=latin' rel='stylesheet' type='text/css'>
-    <link href='http://fonts.googleapis.com/css?family=Crimson+Text&amp;subset=latin' rel='stylesheet' type='text/css'>
-    <link href='http://fonts.googleapis.com/css?family=Vollkorn:italic&amp;subset=latin' rel='stylesheet' type='text/css'>
-    <link href='http://fonts.googleapis.com/css?family=PT+Sans&amp;subset=latin' rel='stylesheet' type='text/css'>
-    <link href='http://fonts.googleapis.com/css?family=PT+Sans+Caption&amp;subset=latin' rel='stylesheet' type='text/css'>
-    <link href='http://fonts.googleapis.com/css?family=Droid+Sans+Mono&amp;subset=latin' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Vollkorn:italic|PT+Sans|PT+Sans+Caption|Droid+Sans+Mono&amp;subset=latin' rel='stylesheet' type='text/css'>
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
     <script src="/hilight.js"></script>
     <title>My Wiki - [% entry.title %]</title>
