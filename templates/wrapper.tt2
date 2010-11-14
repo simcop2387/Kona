@@ -8,9 +8,9 @@
     <link rel="stylesheet" href="/overrides.css">
     <!-- Google Fonts -->
     <link href='http://fonts.googleapis.com/css?family=Vollkorn:italic|PT+Sans|PT+Sans+Caption|Droid+Sans+Mono&amp;subset=latin' rel='stylesheet' type='text/css'>
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+    <script src="http://ajax.microsoft.com/ajax/jQuery/jquery-1.4.4.min.js"></script>
     <script src="/hilight.js"></script>
-    <title>My Wiki - [% entry.title %]</title>
+    <title>My Wiki[% IF entry.article_revision.title %] - [% entry.article_revision.title %][% END %]</title>
 </head>
 <body>
     <div class="head mod grab login headerstyle">
